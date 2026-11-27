@@ -10,5 +10,5 @@ func constans() {
 	last_name := "Garcia"
 
 	fmt.Printf("Nombre: %s %s %T\n", name, last_name, last_name)
-	fmt.Println(AppName, MaxUsers)
+	fmt.Println(appName, maxUsers)
 }
