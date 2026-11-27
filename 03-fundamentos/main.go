@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+const AppName = "Curso Go" //app = interno, App = exportable
+const MaxUsers = 1000
+
 func main() {
 	var name string = "Enrique"
 	last_name := "Garcia"
